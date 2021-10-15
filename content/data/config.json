@@ -5,12 +5,6 @@
         "title": "Dry Build",
         "has_nav": true,
         "nav_links": [
-            
-            {
-                "label": "Blog",
-                "url": "/blog",
-                "style": "link"
-            },
             {
                 "label": "About",
                 "url": "/about",
