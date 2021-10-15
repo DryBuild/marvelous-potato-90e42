@@ -4,8 +4,7 @@ sections:
   - type: hero_section
     title: Moisture Solutions Specialists
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      
     actions:
       - label: Learn More
         url: /features
