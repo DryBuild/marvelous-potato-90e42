@@ -46,7 +46,7 @@ sections:
         image_position: left
         actions:
           - label: Take Action
-            url: /features
+            url: /contact
             style: secondary
 seo:
   title: Stackbit Starter Theme
