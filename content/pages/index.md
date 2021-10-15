@@ -41,7 +41,7 @@ sections:
         content: >-
           Through our proactive method we aim to make failed moisture inspections a thing of the past.
         align: left
-        image: images/feature.svg
+        image: images/image_2.jpeg
         image_alt: Feature 2 placeholder image
         image_position: left
         actions:
