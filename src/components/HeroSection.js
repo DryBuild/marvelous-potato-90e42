@@ -6,7 +6,7 @@ import SectionActions from './SectionActions';
 
 export default class HeroSection extends React.Component {
     renderBackgroundImage(background) {
-        const backgroundImage = _.get(background, 'background_image');
+        // const backgroundImage = _.get(background, 'background_image');
         const backgroundOpacity = _.get(background, 'background_image_opacity', 100) * 0.01;
         const backgroundSize = _.get(background, 'background_image_size', 'cover');
         const backgroundRepeat = _.get(background, 'background_image_repeat', 'no-repeat');
