@@ -26,7 +26,7 @@ sections:
   - type: features_section
     title: Our Service
     features:
-      - title: Feature 1
+      - title: 
         content: >-
           Seemless service from drop off to pick up, Our commercial grade dehumidifiers and high volume fans bring back control to your building site.
         align: left
