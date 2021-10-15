@@ -13,7 +13,7 @@
             {
                 "label": "Contact Us",
                 "url": "/contact",
-                "style": "link"
+                "style": "primary"
             }
         ]
     },
