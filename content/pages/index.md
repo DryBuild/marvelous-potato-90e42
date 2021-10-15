@@ -39,7 +39,7 @@ sections:
             style: secondary
     #   - title: Feature 2
         content: >-
-          
+          Through our proactive method we aim to make failed moisture inspections a thing of the past.
         align: left
         image: images/feature.svg
         image_alt: Feature 2 placeholder image
