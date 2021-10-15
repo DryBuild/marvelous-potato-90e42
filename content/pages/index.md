@@ -30,7 +30,7 @@ sections:
         content: >-
           Seamless service from drop off to pick up, Our commercial grade dehumidifiers and high volume fans bring back control to your building site.
         align: left
-        image: images/feature.svg
+        image: images/image_1.jpeg
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
