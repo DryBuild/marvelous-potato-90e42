@@ -5,11 +5,7 @@
         "title": "Dry Build",
         "has_nav": true,
         "nav_links": [
-            {
-                "label": "Contact",
-                "url": "/features",
-                "style": "link"
-            },
+            
             {
                 "label": "Blog",
                 "url": "/blog",
