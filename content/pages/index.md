@@ -37,7 +37,7 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-    #   - title: 
+      - title: 
         content: >-
           Through our proactive method we aim to make failed moisture inspections a thing of the past.
         align: left
