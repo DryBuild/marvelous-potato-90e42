@@ -14,7 +14,7 @@ export default class HeroSection extends React.Component {
             <div
                 className="bg-image__image"
                 style={{
-                    backgroundImage: `url('${withPrefix(backgroundImage)}')`,
+                    // backgroundImage: `url('${withPrefix(backgroundImage)}')`,
                     opacity: backgroundOpacity,
                     backgroundSize: backgroundSize,
                     backgroundRepeat: backgroundRepeat
