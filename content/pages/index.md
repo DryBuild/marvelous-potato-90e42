@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Moisture Solutions Specialists
     subtitle: >-
-      
+      With build times getting ever shorter get yourself an edge and remove the guess work out of winter builds. With Dry Builds moisture managment you can stick to your timelines and build a drier healthier home.
     actions:
       - label: Learn More
         url: /features
