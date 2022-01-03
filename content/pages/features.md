@@ -24,7 +24,7 @@ sections:
 
           • Competitive pricing
         align: left
-        image: images/feature.svg
+        image: /images/framing-of-a-new-house.jpg
         image_alt: Feature 2 placeholder image
         image_position: left
         actions: []
