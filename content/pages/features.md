@@ -18,10 +18,14 @@ sections:
             url: /about
             style: primary
       - title: Whats Included
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: |
+          • Drop of and install of our units including ducting and power leads
+
+          • Before, during and after moister readings
+
+          • Decommission and pick up of units
+
+          • Competitive pricing
         align: left
         image: images/feature.svg
         image_alt: Feature 2 placeholder image
