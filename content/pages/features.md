@@ -8,10 +8,7 @@ sections:
   - type: features_section
     features:
       - title: What we do
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: "Through the use of our commercial dehumidifiers and high volume fans we can quickly remove moister inside the site and direct warm dry air to where it is needed.\_ Weather that be wet framing, flood or weather damage, drying plaster or paint we can decrease wait time between coats and reduce the chance of failed Pre-line moister tests.\n"
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
