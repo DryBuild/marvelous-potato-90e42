@@ -6,11 +6,6 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "About",
-                "url": "/about",
-                "style": "link"
-            },
-            {
                 "label": "Contact Us",
                 "url": "/contact",
                 "style": "link"
