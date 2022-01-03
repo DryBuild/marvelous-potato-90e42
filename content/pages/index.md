@@ -8,7 +8,10 @@ sections:
       the drying process to ensure the pass of a pre-line moisture inspection.
       By getting our units in early and starting the moister removal from the
       framing and flooring we can provide an accurate timeline for your
-      inspection and gaurentee a pass.
+      inspection and gaurentee a pass.Plastering and painting in winter is never
+      as fast as summer but by leaving our units on site for the post line stage
+      of the build you can decrease wait time between coats and get the job done
+      faster now.
     actions:
       - label: Learn More
         url: /features
