@@ -7,11 +7,8 @@ sections:
       By using Dry Build as soon as you have a fully enclosed site we can begin
       the drying process to ensure the pass of a pre-line moisture inspection.
       By getting our units in early and starting the moister removal from the
-      framing and flooring we can give an accurate time on when to book your
-      pre-line inspection and gaurentee a pass. Plastering and painting in
-      winter is never as fast as summer but by leaving our units on site for the
-      post line stage of the build you can decrease wait time between coats and
-      get the job done faster now.
+      framing and flooring we can provide an accurate timeline for your
+      inspection and gaurentee a pass.
     actions:
       - label: Learn More
         url: /features
