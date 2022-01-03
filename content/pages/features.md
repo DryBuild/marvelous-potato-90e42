@@ -13,10 +13,7 @@ sections:
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
         image_position: right
-        actions:
-          - label: Learn More
-            url: /about
-            style: primary
+        actions: []
       - title: Whats Included
         content: |
           • Drop of and install of our units including ducting and power leads
