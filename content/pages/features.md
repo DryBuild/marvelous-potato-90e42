@@ -41,7 +41,7 @@ sections:
         image_alt: Feature 3 placeholder image
         image_position: right
         actions:
-          - label: Contact
+          - label: Contact Us
             url: /contact
             style: primary
 seo:
