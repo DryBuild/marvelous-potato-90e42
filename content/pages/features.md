@@ -3,7 +3,7 @@ title: Features
 sections:
   - type: hero_section
     title: Features
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
+    subtitle: 'Since 2021, we aim to remove the guess work from building in winter.'
     align: center
   - type: features_section
     features:
