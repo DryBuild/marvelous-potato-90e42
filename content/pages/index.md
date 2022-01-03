@@ -5,7 +5,7 @@ sections:
     title: Moisture Solutions Specialists
     subtitle: >-
       By using dry build as soon as you have a roof on and either a rigid or
-      flexible air barrier up we can begin the drying proccess to help insure a
+      flexible air barrier up we can begin the drying process to help insure a
       professional finish. By getting our units in early and starting the
       moister removal from the framing and flooring we can give an accurate time
       on when to book your pre-line inspection and gaurentee a pass.
