@@ -4,7 +4,9 @@ sections:
   - type: hero_section
     title: Moisture Solutions Specialists
     subtitle: >-
-      With build times getting ever shorter get yourself an edge and remove the guess work out of winter builds. With Dry Builds moisture managment you can stick to your timelines and build a drier healthier home.
+      With build times getting ever shorter get yourself an edge and remove the
+      guess work out of winter builds. With Dry Builds moisture managment you
+      can stick to your timelines and build a drier healthier home.
     actions:
       - label: Learn More
         url: /features
@@ -18,7 +20,7 @@ sections:
     image_position: right
     has_background: true
     background:
-      background_color: blue
+      background_color: gray
       background_image: images/diagonal-lines.svg
       background_image_opacity: 20
       background_image_size: auto
@@ -26,9 +28,11 @@ sections:
   - type: features_section
     title: Our Service
     features:
-      - title: 
+      - title: null
         content: >-
-          Seamless service from drop off to pick up, Our commercial grade dehumidifiers and high volume fans bring back control to your building site.
+          Seamless service from drop off to pick up, Our commercial grade
+          dehumidifiers and high volume fans bring back control to your building
+          site.
         align: left
         image: images/image_1.jpeg
         image_alt: Feature 1 placeholder image
@@ -37,9 +41,10 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-      - title: 
+      - title: null
         content: >-
-          Through our proactive method we aim to make failed moisture inspections a thing of the past.
+          Through our proactive method we aim to make failed moisture
+          inspections a thing of the past.
         align: left
         image: images/image_2.jpeg
         image_alt: Feature 2 placeholder image
