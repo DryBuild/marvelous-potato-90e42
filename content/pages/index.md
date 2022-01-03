@@ -4,11 +4,12 @@ sections:
   - type: hero_section
     title: Moisture Solutions Specialists
     subtitle: >-
-      By using Dry Build as soon as you have a fully enclosed site we can begin
-      the drying process to ensure the pass of a pre-line moisture inspection.
-      By getting our units in early and starting the moister removal from the
-      framing and flooring we can provide an accurate timeline for your
-      inspection and gaurentee a pass.
+      With build times getting ever shorter get yourself an edge and remove the
+      guess work out of winter builds. By using Dry Build as soon as you have a
+      fully enclosed site we can begin the drying process to ensure the pass of
+      a pre-line moisture inspection. By getting our units in early and starting
+      the moister removal from the framing and flooring we can provide an
+      accurate timeline for your inspection and gaurentee a pass.
     actions:
       - label: Learn More
         url: /features
