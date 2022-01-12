@@ -6,16 +6,16 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Contact Us",
-                "url": "/contact",
-                "style": "link"
-            },
-            {
                 "label": "lorem-ipsum",
                 "url": "#",
                 "style": "link",
                 "new_window": false,
                 "no_follow": false
+            },
+            {
+                "label": "Contact Us",
+                "url": "/contact",
+                "style": "link"
             }
         ],
         "logo": "/images/icon-a3ccf3ae.jpg"
