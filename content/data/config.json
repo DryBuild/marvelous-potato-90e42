@@ -11,7 +11,8 @@
                 "style": "link"
             }
         ],
-        "logo": "/images/icon-a3ccf3ae.jpg"
+        "logo": "/images/icon-a3ccf3ae.jpg",
+        "logo_alt": "Dry Build"
     },
     "footer": {
         "has_nav": true,
