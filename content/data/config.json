@@ -6,13 +6,6 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Phone : 0210780700",
-                "url": "#",
-                "style": "link",
-                "new_window": false,
-                "no_follow": false
-            },
-            {
                 "label": "Contact Us",
                 "url": "/contact",
                 "style": "link"
