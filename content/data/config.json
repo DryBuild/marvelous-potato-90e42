@@ -10,7 +10,8 @@
                 "url": "/contact",
                 "style": "link"
             }
-        ]
+        ],
+        "logo": "/images/icon.jpg"
     },
     "footer": {
         "has_nav": true,
