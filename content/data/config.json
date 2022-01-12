@@ -16,6 +16,13 @@
                 "label": "Contact Us",
                 "url": "/contact",
                 "style": "link"
+            },
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "new_window": false,
+                "no_follow": false
             }
         ]
     },
