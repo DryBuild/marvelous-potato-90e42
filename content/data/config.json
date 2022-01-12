@@ -17,8 +17,7 @@
                 "url": "/contact",
                 "style": "link"
             }
-        ],
-        "logo": "/images/icon-014bee70.jpg"
+        ]
     },
     "footer": {
         "has_nav": true,
