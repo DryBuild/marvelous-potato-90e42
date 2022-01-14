@@ -32,10 +32,13 @@ sections:
     title: Our Service
     features:
       - title: null
-        content: >-
+        content: >
           Seamless service from drop off to pick up, Our commercial grade
           dehumidifiers and high volume fans bring back control to your building
           site.
+
+
+          Rates starting as low as $6 per square metre +GST
         align: left
         image: images/image_1.jpeg
         image_alt: Feature 1 placeholder image
