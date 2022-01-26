@@ -18,7 +18,8 @@
                 "style": "link"
             }
         ],
-        "logo": "/images/houses.jpg"
+        "logo": "/images/houses.jpg",
+        "logo_alt": "Dry Build "
     },
     "footer": {
         "has_nav": true,
