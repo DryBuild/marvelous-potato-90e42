@@ -17,7 +17,8 @@
                 "url": "/contact",
                 "style": "link"
             }
-        ]
+        ],
+        "logo": "/images/dry build final.jpg"
     },
     "footer": {
         "has_nav": true,
