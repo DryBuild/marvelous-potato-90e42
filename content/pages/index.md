@@ -40,7 +40,7 @@ sections:
 
           Rates starting as low as $6 per square metre +GST
         align: left
-        image: images/image_1.jpeg
+        image: /images/fan labeled.jpg
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
