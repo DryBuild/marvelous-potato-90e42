@@ -18,8 +18,7 @@
                 "style": "link"
             }
         ],
-        "logo": "/images/houses.jpg",
-        "logo_alt": "Dry Build New Zealand"
+        "logo": "/images/houses.jpg"
     },
     "footer": {
         "has_nav": true,
