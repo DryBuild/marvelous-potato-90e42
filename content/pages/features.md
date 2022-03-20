@@ -29,7 +29,7 @@ sections:
         image_position: left
         actions: []
       - title: Professional Finish
-        content: "With the use of Dry Build from pre line to post line we can guarantee than your framing is as stable as possible which will reduce the likelihood of screws popping on plaster board, mould developing under mid-floors, no more gaps and plaster from cracking as the timber shrinks over time long after the builder has left the job.\n\nAsk for Dry Build on your next\_project.\n"
+        content: "With the use of Dry Build from pre line to post line we can ensure that your framing is as stable as possible which will reduce the likelihood of secondary damage such as screws popping on plaster board, mould developing under mid-floors and no more gaps and plaster from cracking. This damage can occure as the timber shrinks over time long after the builder has left the job.\n\nAsk for Dry Build on your next\_project.\n"
         align: left
         image: /images/f6390bea-363e-4366-81ca-7054c80832e1-lg.jpg
         image_alt: Feature 3 placeholder image
