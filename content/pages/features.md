@@ -8,7 +8,7 @@ sections:
   - type: features_section
     features:
       - title: What we do
-        content: "Through the use of our commercial dehumidifiers and high volume fans we can quickly remove moisture inside the site and direct warm dry air to where it is needed.\_ Weather that be wet framing, flood or weather damage, drying plaster or paint we can decrease wait time between coats and reduce the chance of failed Pre-line moister tests.\n"
+        content: "Through the use of our commercial dehumidifiers and high volume fans we can quickly remove moisture and direct warm dry air to where it is needed.\_ Weather that be wet framing, flood or weather damage, drying plaster or paint we can decrease wait time between coats and reduce the chance of failed Pre-line moister tests.\n"
         align: left
         image: /images/building-system-protects-03__FillWzcyNCw0MDhd.jpg
         image_alt: Feature 1 placeholder image
@@ -29,7 +29,7 @@ sections:
         image_position: left
         actions: []
       - title: Professional Finish
-        content: "With the use of Dry Build from pre line to post line we can guarantee than your framing is as stable as possible which will reduce the likelihood of screws popping on plaster board, mould developing under mid-floors, no more gaps and plaster from cracking as the timber shrinks over time long after the builder has left the job.\n\nAsk for Dry Build on your next\_project.\n"
+        content: "With the use of Dry Build from pre line to post line we can ensure that your framing is as stable as possible. This can reduce the likelihood of secondary damage occuring such as screws popping on plaster board, mould developing under mid-floors, no more gaps and plaster joins from cracking. All of which m ay not appear untill well after the job is completed .\n\nAsk for Dry Build on your next\_project.\n"
         align: left
         image: /images/f6390bea-363e-4366-81ca-7054c80832e1-lg.jpg
         image_alt: Feature 3 placeholder image
