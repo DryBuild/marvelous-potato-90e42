@@ -9,7 +9,7 @@ sections:
       fully enclosed site we can begin the drying process to ensure the pass of
       a pre-line moisture inspection. By getting our units in early and starting
       the moister removal from the framing and flooring we can provide an
-      accurate timeline for your inspection and gaurentee a pass.
+      accurate timeline for your inspection and secure a pass.
     actions:
       - label: Learn More
         url: /features
