@@ -60,8 +60,8 @@ sections:
             url: /contact
             style: secondary
 seo:
-  title: Stackbit Starter Theme
-  description: The preview of the Starter theme
+  title: Structural Drying Solutions
+  description: Moisture control and structural drying in commercial and residentail construction
   extra:
     - name: 'og:type'
       value: website
