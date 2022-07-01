@@ -61,7 +61,7 @@ sections:
             style: secondary
 seo:
   title: Structural Drying Solutions
-  description: Moisture control and structural drying in commercial and residentail construction
+  description: Moisture control and structural drying in commercial and residentail construction. Make failed pre line inspections will become a thing of the past with dry build. 
   extra:
     - name: 'og:type'
       value: website
