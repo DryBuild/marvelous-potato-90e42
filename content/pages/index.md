@@ -79,9 +79,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Starter Theme
+      value: Structural Drying Solutions 
     - name: 'twitter:description'
-      value: The preview of the Starter theme
+      value: Structural Drying Solutions
     - name: 'twitter:image'
       value: images/starter-preview.png
       relativeUrl: true
