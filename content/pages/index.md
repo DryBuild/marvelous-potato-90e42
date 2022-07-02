@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Moisture Solutions Specialists
+    title: Structural Dry Solutions
     subtitle: >-
       With build times getting ever shorter get yourself an edge and remove the
       guess work out of winter builds. By using Dry Build as soon as you have a
@@ -60,8 +60,8 @@ sections:
             url: /contact
             style: secondary
 seo:
-  title: Structural Drying Solutions
-  description: Moisture control and structural drying in commercial and residentail construction. Make failed pre line inspections will become a thing of the past with dry build. 
+  title: Dry Build 
+  description: Moisture control and structural drying in commercial and residentail construction. Make failed pre line inspections a thing of the past with Dry Build's structural drying.
   extra:
     - name: 'og:type'
       value: website
