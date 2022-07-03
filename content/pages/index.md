@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Structural Dry Solutions
+    title: Structural Drying Solutions
     subtitle: >-
       With build times getting ever shorter get yourself an edge and remove the
       guess work out of winter builds. By using Dry Build as soon as you have a
